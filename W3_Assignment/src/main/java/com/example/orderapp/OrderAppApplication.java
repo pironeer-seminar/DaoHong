@@ -1,13 +1,12 @@
-package com.example.pironeer;
+package com.example.orderapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PironeerApplication {
+public class OrderAppApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(PironeerApplication.class, args);
+        SpringApplication.run(OrderAppApplication.class, args);
     }
-
-}
+} 
